@@ -19,7 +19,7 @@ Clone the repository:
 **git clone https://github.com/your-username/digital-clock.git ** 
 
 🌐 Live Demo
-Check out the live version here: Digital Clock Demo
+Check out the live version here: Digital Clock Demo :https://prajnahr-rao.github.io/Digital_clock/
 
 💻 Technologies Used
 HTML: To structure the clock.
